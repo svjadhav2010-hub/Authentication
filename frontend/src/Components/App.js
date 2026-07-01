@@ -1,7 +1,7 @@
 import React from "react";
-import Login from './Components/Login'
-import Signup from './Components/Signup'
-import Home from './Components/Home'
+import Login from './components/Login'
+import Signup from './components/Signup'
+import Home from './components/Home'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 function App() {
